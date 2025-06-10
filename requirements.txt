@@ -1,0 +1,11 @@
+streamlit
+pypdf2
+google-genai
+google-generativeai
+faiss-cpu
+dotenv
+langchain
+langchain-community
+watchdog
+langchain-huggingface
+chromadb
